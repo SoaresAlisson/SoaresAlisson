@@ -1,5 +1,5 @@
 ### What I do 
-Digital Sociology; Textual Analysis; Sociological System theory.
+Computational Sociology; Computational Social Sciences, Textual Analysis.
 
 ### Programming Languages
 <div style="overflow:hidden;">
