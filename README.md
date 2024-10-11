@@ -1,5 +1,5 @@
 ### What I do 
-Computational Sociology; Computational Social Sciences, Textual Analysis.
+Computational Sociology; Computational Social Sciences; Text mining; Text Analysis; Natural Language Processing.
 
 ### Programming Languages
 <div style="overflow:hidden;">
